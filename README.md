@@ -17,7 +17,7 @@ QA.GURU | Java | Автоматизация тестирования.
 <a target="_blank" href="https://github.com/AntoninaZhegalova/reqresin/tree/main/src/test/java/">Репозиторий проекта</a>
 
 Скриншоты:
-<p align="center"> <img title="Reqres.in service 1" src="images/reqresin 1.png">
+<p align="center"> <img title="Reqres.in service 1" src="images/reqresin 2.png">
 </p>
 
 
